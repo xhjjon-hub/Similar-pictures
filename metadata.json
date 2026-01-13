@@ -1,0 +1,5 @@
+{
+  "name": "视频尾帧生成器",
+  "description": "基于首帧图片生成完美的视频尾帧，助力图生视频创作。",
+  "requestFramePermissions": []
+}
